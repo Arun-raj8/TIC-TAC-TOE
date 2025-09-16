@@ -2,6 +2,8 @@
 
 A modern, animated Tic-Tac-Toe game built with React and Vite, featuring a beautiful text animation effect.
 
+🎮 [Play the game here](https://arun-raj8.github.io/TIC-TAC-TOE/)
+
 ## Features
 
 - Classic Tic-Tac-Toe gameplay
